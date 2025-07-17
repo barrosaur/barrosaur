@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Studying BS Computer Engineering at the University of San Carlos<br>💻 I wanna learn every IT niche there is<br><br>📝 the tech stack below is all the things I wanna learn, and maybe I'll add more
+👩🏻‍💻 Studying BS Computer Engineering at the University of San Carlos<br>💻 I wanna learn every IT niche there is<br><br>📝 Still learning...
 
 
 ## 🌐 Socials:
