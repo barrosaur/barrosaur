@@ -17,4 +17,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=barrosaur&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 📒 Currently learning:
+<ul>
+  <li>Data Science</li>
+  <li>Data Engineering</li>
+  <li>Full Stack Developer</li>
+  <li>Game Dev</li>
+</ul>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
