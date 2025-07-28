@@ -25,3 +25,8 @@
   <li>Game Dev</li>
 </ul>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# 🎓 Certifications
+<ul>
+  <li>Associate Data Engineer in SQL</li>
+</ul>
